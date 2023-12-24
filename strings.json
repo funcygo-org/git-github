@@ -3139,7 +3139,7 @@
     "Workspace-PullError": "GitKraken无法拉取 {0} 存储库",
     "Workspace-FetchReposButtonLabel": "获取全部",
     "Workspace-FetchXReposButtonLabel": "获取 {0}",
-    "Workspace-PullReposButtonLabel": "全部拉动",
+    "Workspace-PullReposButtonLabel": "全部拉取",
     "Workspace-PullXReposButtonLabel": "拉 {0}",
     "Workspace-FetchRepository": "获取储存库",
     "Workspace-PullRepository": "拉取存储库",
