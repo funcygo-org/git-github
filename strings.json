@@ -370,7 +370,7 @@
     "LicenseBadge-Pro": "PRO",
     "LicenseBadge-Trial": "TRIAL",
     "LicenseBadge-SelfHosted": "SELF-HOSTED",
-    "LicenseBadge-Standalone": "SERVERLESS",
+    "LicenseBadge-Standalone": "☃️",
     "FreeBadgeTooltip": "授权使用于开源专案。 点击查看方案",
     "Stash-ApplyWithUncommittedChangesPrompt": "您有未提交的变更。您确定要套用搁置并取代变更吗？",
     "Stash-PartialStashSelectedPath": "这将会搁置所有 \"{0}\" 里暂存和未暂存的变更。您确定要搁置文件的所有变更吗？",
