@@ -186,7 +186,7 @@
     "Registration-iAgree": "我同意",
     "Registration-Password": "密码",
     "Registration-ConfirmPassword": "确认密码",
-    "Registration-ResendEmail": "重新传送",
+    "Registration-ResendEmail": "重发邮件",
     "Registration-ResendingEmail": "正在传送...",
     "Registration-Failed": "无法连接至服务器",
     "Registration-FailedExtra": "请稍后再试。",
