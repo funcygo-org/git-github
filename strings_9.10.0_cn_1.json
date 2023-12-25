@@ -1606,7 +1606,6 @@
     "CommitTemplates-CommitTemplateDocumentation": "Git提交模板文档",
     "CommitTemplates-UseTemplateForCommitMessages": "将此模板应用于提交消息",
     "CommitTemplates-RemoveCommentsFromCommitMessages": "从提交消息中删除注释",
-
     "CommitPreferences-CommitTemplate": "提交模板",
     "CommitPreferences-CommitTemplateDocumentation": "Git提交模板文档",
     "CommitPreferences-DefaultCommitAction": "默认提交操作",
@@ -1619,7 +1618,6 @@
     "CommitPreferences-SuccessSaveTemplate": "提交模板保存成功",
     "CommitPreferences-Summary": "总结",
     "CommitPreferences-UseTemplateForCommitMessages": "应用此模板提交信息",
-
     "GitFlow": "Git工作流",
     "GitFlow-Branches": "分支",
     "GitFlow-Prefixes": "前缀",
